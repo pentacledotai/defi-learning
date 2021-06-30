@@ -9,7 +9,7 @@ Person input:
  
 Widget output:
  - squigglies of real data
- - numbers of fees collected, divloss suffered, net pnl/apr/...?
+ - numbers of fees collected, divergence loss suffered, net pnl/apr/...?
 
 
 
