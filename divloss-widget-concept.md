@@ -1,5 +1,33 @@
 ![squigglies](div-loss.png)
 
+
+coin - default
+  ETH-USDc
+
+
+Person input:
+
+Input dates
+ - From
+ - To
+ 
+
+
+
+
+ 
+Widget output:
+
+ - squigglies of real data - some kind of data plot UI thing
+ 
+ - fees collected
+ - divergence loss suffered
+ - net pnl
+ - apr ??
+
+- - - 
+
+
 Person input:
 
 Input coin
