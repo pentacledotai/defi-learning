@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98734e26-b603-4a55-94d4-a6f12845e341" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/divergence-loss/divergence-loss.md" beforeDir="false" afterPath="$PROJECT_DIR$/divergence-loss/divergence-loss.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/defi-learning-overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/defi-learning-overview.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
   </component>
   <component name="TaskManager">
     <servers />

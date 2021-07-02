@@ -32,3 +32,10 @@ https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b681
 [# Liquidity Provider Returns in Geometric Mean Markets](https://arxiv.org/abs/2006.08806)
 
 ![wow](https://i.imgur.com/gHAunfy.png)
+
+
+### More linkies
+
+https://twitter.com/takenstheorem/status/1410479663730864129
+
+https://twitter.com/ethtective
