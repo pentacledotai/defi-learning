@@ -1,4 +1,5 @@
 ![squigglies](divergence-loss.png)
+![miyu-mvp-plot](pair-chairt-mvp.png)
 
 
 Person input:
