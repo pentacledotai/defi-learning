@@ -1,4 +1,4 @@
-![squigglies](div-loss.png)
+![squigglies](divergence-loss.png)
 
 
 coin - default
