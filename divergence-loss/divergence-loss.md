@@ -1,33 +1,6 @@
 ![squigglies](divergence-loss.png)
 
 
-coin - default
-  ETH-USDc
-
-
-Person input:
-
-Input dates
- - From
- - To
- 
-
-
-
-
- 
-Widget output:
-
- - squigglies of real data - some kind of data plot UI thing
- 
- - fees collected
- - divergence loss suffered
- - net pnl
- - apr ??
-
-- - - 
-
-
 Person input:
 
 Input coin
@@ -43,7 +16,6 @@ Input dates
  - xyk 
  - AMM function
  - Curve etc
- 
  
 Widget output:
 
@@ -61,3 +33,9 @@ Widget output:
 https://chitty27.pythonanywhere.com/
 
 https://vicyyn.com/
+
+https://defi-lab.xyz/uniswapv3simulator
+
+https://uniswapv3.flipsidecrypto.com/
+
+https://www.3blue1brown.com/
