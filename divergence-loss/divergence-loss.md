@@ -33,6 +33,8 @@ Widget output:
 
 https://uniswapv3.flipsidecrypto.com/
 
+https://medium.com/@DeFiScientist/uniswap-v3-a-quant-framework-to-model-yield-farming-returns-941a1600425e
+
 https://chitty27.pythonanywhere.com/
 
 https://vicyyn.com/
