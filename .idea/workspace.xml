@@ -21,11 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="98734e26-b603-4a55-94d4-a6f12845e341" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/defi-learning-ia.md" beforeDir="false" afterPath="$PROJECT_DIR$/defi-learning-ia.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/defi-learning-overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/defi-learning-early-notes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/divergence-loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/divergence-loss.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/liquidity-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/liquidity-01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/liquidity-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/liquidity-02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/divergence-loss/divergence-loss.md" beforeDir="false" afterPath="$PROJECT_DIR$/divergence-loss/divergence-loss.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/divergence-loss" />
       <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
@@ -61,7 +58,16 @@
       <option name="presentableId" value="Default" />
       <updated>1625464168979</updated>
       <workItem from="1625464170083" duration="355000" />
+      <workItem from="1625464765054" duration="726000" />
     </task>
+    <task id="LOCAL-00001" summary="imgs">
+      <created>1625465094657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625465094657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +84,15 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="imgs" />
+    <option name="LAST_COMMIT_MESSAGE" value="imgs" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="-1491" key="Vcs.Push.Dialog.v2" timestamp="1625465124510">
+      <screen x="-842" y="-2137" width="3840" height="2137" />
+    </state>
+    <state x="512" y="-1491" key="Vcs.Push.Dialog.v2/0.23.1920.1132/-842.-2137.3840.2137@-842.-2137.3840.2137" timestamp="1625465124510" />
   </component>
 </project>
