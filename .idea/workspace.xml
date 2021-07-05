@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf9412d0-dd7d-49f8-93eb-5b047eed81d7" name="Default Changelist" comment="" />
+    <list default="true" id="cf9412d0-dd7d-49f8-93eb-5b047eed81d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625466974369</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="another test">
+      <created>1625489668109</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625489668109</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +116,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="imgs" />
     <MESSAGE value="hopefully the folders will push now" />
-    <option name="LAST_COMMIT_MESSAGE" value="hopefully the folders will push now" />
+    <MESSAGE value="another test" />
+    <option name="LAST_COMMIT_MESSAGE" value="another test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="466" y="225" key="SettingsEditor" timestamp="1625478392431">

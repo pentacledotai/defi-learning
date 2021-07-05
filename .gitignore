@@ -1,2 +1,3 @@
-.idea/**/workspace
-.idea/codeStyles/
+.idea
+node_modules
+.DS_Store
