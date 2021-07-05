@@ -38,16 +38,16 @@ $x$ and $y$ are *amounts of* tokens in the Liquidity Pool, $K$ is the total liqu
 The ratio of the two assets in the pool is the exchange rate $P$:
 $\frac{x}{y} = P$
 
-![[xyk-pricing-curve.png]]
+![xyk-pricing-curve](xyk-pricing-curve.png)
 
-![[xyk-quoting-formula.png]]
+![xyk-quoting-formula](xyk-quoting-formula.png)
 
 It follows that the coin reserves of a Liquidity Pool can be expressed in terms of price $P$ and constant $K$:
 
 $x = \sqrt{K \times P}$
 $y = \sqrt{\frac{K}{P}}$
 
-![[definition-and-refs-from-paper.png]]
+![definition-and-refs-from-paper](definition-and-refs-from-paper.png)
 
 DL is the difference between the value of a portfolio managed by an xyk AMM function and the same account with fixed amounts of the same tokens.
 $DL = \sqrt{R} - \frac{R+1}{2}$

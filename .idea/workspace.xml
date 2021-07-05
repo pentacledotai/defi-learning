@@ -23,9 +23,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/amm/divergence-loss/divergence-loss.md" beforeDir="false" afterPath="$PROJECT_DIR$/amm/divergence-loss/divergence-loss.md" afterDir="false" />
     </list>
-    <list id="a90dd2d2-ed62-464a-958d-43957fc4b742" name="ignore" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list id="a90dd2d2-ed62-464a-958d-43957fc4b742" name="ignore" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,16 +31,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.idea/workspace.xml">
-      <ranges>
-        <range start1="21" end1="23" start2="21" end2="27" changelist="cf9412d0-dd7d-49f8-93eb-5b047eed81d7" />
-        <range start1="31" end1="31" start2="35" end2="45" changelist="cf9412d0-dd7d-49f8-93eb-5b047eed81d7" />
-        <range start1="42" end1="42" start2="56" end2="57" changelist="cf9412d0-dd7d-49f8-93eb-5b047eed81d7" />
-        <range start1="120" end1="131" start2="135" end2="135" changelist="a90dd2d2-ed62-464a-958d-43957fc4b742" />
-      </ranges>
-    </file>
   </component>
   <component name="ProjectId" id="1uspUnDOjuJUd4efbnnArZ4ibvQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
