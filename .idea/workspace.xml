@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98734e26-b603-4a55-94d4-a6f12845e341" name="Default Changelist" comment="" />
+    <list default="true" id="98734e26-b603-4a55-94d4-a6f12845e341" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,14 +111,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="hopefully the folders will push now" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="702" y="314" key="RollbackChangesDialog" timestamp="1625488400366">
+      <screen x="0" y="23" width="1920" height="1132" />
+    </state>
+    <state x="702" y="314" key="RollbackChangesDialog/0.23.1920.1132/-842.-2137.3840.2137@0.23.1920.1132" timestamp="1625488400366" />
     <state x="466" y="225" key="SettingsEditor" timestamp="1625478392431">
       <screen x="0" y="23" width="1920" height="1132" />
     </state>
     <state x="466" y="225" key="SettingsEditor/0.23.1920.1132/-842.-2137.3840.2137@0.23.1920.1132" timestamp="1625478392431" />
-    <state x="677" y="365" key="Vcs.Push.Dialog.v2" timestamp="1625478426556">
+    <state x="677" y="365" width="1081" height="543" key="Vcs.Push.Dialog.v2" timestamp="1625478748694">
       <screen x="0" y="23" width="1920" height="1132" />
     </state>
     <state x="512" y="-1491" key="Vcs.Push.Dialog.v2/0.23.1920.1132/-842.-2137.3840.2137@-842.-2137.3840.2137" timestamp="1625466979950" />
-    <state x="677" y="365" key="Vcs.Push.Dialog.v2/0.23.1920.1132/-842.-2137.3840.2137@0.23.1920.1132" timestamp="1625478426556" />
+    <state x="677" y="365" width="1081" height="543" key="Vcs.Push.Dialog.v2/0.23.1920.1132/-842.-2137.3840.2137@0.23.1920.1132" timestamp="1625478748694" />
   </component>
 </project>
