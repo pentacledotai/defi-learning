@@ -20,7 +20,7 @@ Smth smth
 
 ### Rewards
  - things can go up
- - 
+  
 ### Math / Diagram
 ...
 
