@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98734e26-b603-4a55-94d4-a6f12845e341" name="Default Changelist" comment="" />
+    <list default="true" id="98734e26-b603-4a55-94d4-a6f12845e341" name="Default Changelist" comment="imgs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/defi-learning-ia.md" beforeDir="false" afterPath="$PROJECT_DIR$/defi-learning-ia.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,15 +33,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uspUnDOjuJUd4efbnnArZ4ibvQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -56,6 +65,7 @@
       <updated>1625464168979</updated>
       <workItem from="1625464170083" duration="355000" />
       <workItem from="1625464765054" duration="834000" />
+      <workItem from="1625477547587" duration="805000" />
     </task>
     <task id="LOCAL-00001" summary="imgs">
       <created>1625465094657</created>
@@ -92,11 +102,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="imgs" />
     <option name="LAST_COMMIT_MESSAGE" value="imgs" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="512" y="-1491" key="Vcs.Push.Dialog.v2" timestamp="1625465575925">
-      <screen x="-842" y="-2137" width="3840" height="2137" />
-    </state>
-    <state x="512" y="-1491" key="Vcs.Push.Dialog.v2/0.23.1920.1132/-842.-2137.3840.2137@-842.-2137.3840.2137" timestamp="1625465575925" />
   </component>
 </project>

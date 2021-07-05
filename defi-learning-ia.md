@@ -9,7 +9,7 @@ Smth smth
 ### Why?
  - we like self custody
  - we like the coin
- ?
+bla bla
 
 ### What LONG
 ...
