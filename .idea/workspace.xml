@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98734e26-b603-4a55-94d4-a6f12845e341" name="Default Changelist" comment="" />
+    <list default="true" id="98734e26-b603-4a55-94d4-a6f12845e341" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amm/divergence-loss/divergence-loss.md" beforeDir="false" afterPath="$PROJECT_DIR$/amm/divergence-loss/divergence-loss.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amm/divergence-loss/divergence-loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/amm/divergence-loss/images/divergence-loss-squig.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amm/divergence-loss/pair-chairt-mvp.png" beforeDir="false" afterPath="$PROJECT_DIR$/amm/divergence-loss/images/pair-chairt-mvp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amm/provide-liquidity/provide-liquidity.md" beforeDir="false" afterPath="$PROJECT_DIR$/amm/provide-liquidity/provide-liquidity.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +35,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uspUnDOjuJUd4efbnnArZ4ibvQ" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -46,6 +52,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/amm/divergence-loss/images" />
       <recent name="$PROJECT_DIR$/amm" />
       <recent name="$PROJECT_DIR$/divergence-loss" />
       <recent name="$PROJECT_DIR$/images" />
