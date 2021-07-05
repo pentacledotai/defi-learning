@@ -46,3 +46,5 @@ https://uniswapv3.flipsidecrypto.com/
 https://www.3blue1brown.com/
 
 https://defieducation.substack.com/p/defi-in-simple-photos-and-how-to
+
+https://arxiv.org/pdf/2106.14404.pdf
