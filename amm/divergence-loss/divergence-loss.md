@@ -1,6 +1,8 @@
-![squigglies](divergence-loss.png)
-![miyu-mvp-plot](pair-chairt-mvp.png)
-
+![squigglies](images/divergence-loss-squig.png)
+![miyu-mvp-plot](images/pair-chairt-mvp.png)
+![liquidity-01](images/liquidity-01.png)
+![liquidity-02](images/liquidity-02.png)
+![lp-loss-weird](images/divergence-loss.png)
 
 Person input:
 
@@ -51,3 +53,5 @@ https://arxiv.org/pdf/2106.14404.pdf
 https://www.paradigm.xyz/2021/06/uniswap-v3-the-universal-amm/
 
 https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827
+
+https://arxiv.org/abs/2106.14404
