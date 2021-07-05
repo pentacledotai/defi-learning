@@ -38,7 +38,7 @@ Synthetix is a decentralized synthetic asset issuance protocol. It allows people
 
 Lido is a decentralized protocol that lets people provide their Ethereum so that the collective liquidity may be used for ETH 2.0 staking. They receive stETH tokens on a 1:1 basis which may be used for lending and other on-chain activities on the current Ethereum network, with the exception that the stETH tokens are innately interest bearing, and are updated daily to reflect the owners' staking rewards.
 
-## Bancor
+``## Bancor
 
 Bancor is a decentralized exchange. It is distinguished from other DEX protocols by its automated market maker, which lets people deposit liquidity in a single-sided fashion, whereas many other platforms require its visitors to provide liquidity with their tokens in an inherently two-sided way. Bancor's automated market maker mechanism achieves this through its native token, BNT, which is dynamically minted and co-invested by the protocol when visitors deposit their collateral as liquidity. Besides having BNT as the unitary counterpart asset of exchange for trading on the platform, the protocol also offers a unique solution against Impermanent Loss to its liquidity providers.
 
