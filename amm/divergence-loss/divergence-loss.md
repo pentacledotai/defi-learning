@@ -26,6 +26,7 @@ Widget output:
  - divergence loss suffered
  - net pnl
  - apr ??
+ - adding in some line
 
 
 
