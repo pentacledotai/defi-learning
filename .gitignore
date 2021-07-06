@@ -1,3 +1,7 @@
-.idea
+/.idea
+.idea/
+.idea/*
 node_modules
 .DS_Store
+workspace.xml
+tasks.xml
