@@ -9,7 +9,7 @@ Person input:
 Input coin
  - Coin A
  - Coin B
-   (MVP we will default to ETH-USDc)
+   (MVP we will default to ETH-USDt)
 
 Input dates
  - Date 1
