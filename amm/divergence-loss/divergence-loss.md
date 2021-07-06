@@ -84,3 +84,5 @@ https://www.paradigm.xyz/2021/06/uniswap-v3-the-universal-amm/
 https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827
 
 https://arxiv.org/abs/2106.14404
+
+https://academy.binance.com/en/articles/impermanent-loss-explained
