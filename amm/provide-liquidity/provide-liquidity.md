@@ -10,6 +10,8 @@
 
 ### Math / Diagram
 
+making something up
+
 ### Links / Refs
 https://academy.binance.com/en/articles/what-are-liquidity-pools-in-defi
 
