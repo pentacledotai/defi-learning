@@ -14,6 +14,7 @@ Data Sources are defined here as passive entities that store and measure the rep
  - humans
  - smart contracts
  - or a combination of them
+
   Depending on how data sources gather and retrieve the ground truth, and where a representation of that value relies upon, there can be different attack types.
   
   ![](images/oracle-classification-talbe.png)
