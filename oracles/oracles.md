@@ -1,6 +1,6 @@
 https://blog.makerdao.com/introducing-oracles-v2-and-defi-feeds/
 
-## SoK: Oracles from the Ground Truth to Market Manipulation
+# SoK: Oracles from the Ground Truth to Market Manipulation
 
 https://arxiv.org/abs/2106.00667
 
@@ -30,7 +30,7 @@ Data Sources are defined here as passive entities that store and measure the rep
 > Decentralized selection is done by the holders of some scarce token, typically a governance token specific to the oracle service. The simplest decentralized mechanism to hold a vote amongst token holders, who are indirectly incentivized (we call this an exogenous incentive) cast informed votes since they hold a token tied to the success of the system (e.g., TruthCoin [96]). In a staking system, token holders are directly incentivized (a endogenous incentive) to vote ‘correctly’ (this remains to be defined but assume for now it means they vote in a way that will not be disputed) by posting some amount of their tokens as a fidelity bond. Stakers stand to be rewarded with new tokens and/or penalized (collateral slashed) depending on the performance of the data feeders they vote for.
 
 
-### Evaluation Framework on the selection of data feeders
+## Evaluation Framework on the selection of data feeders
 
  - No trusted third party
  - Low latency
@@ -39,17 +39,52 @@ Data Sources are defined here as passive entities that store and measure the rep
  - Incentives are Endogeneous
 
 
-### Aggregation of Data Feeds
+## Aggregation of Data Feeds
 > To improve the quality of simple statistics such as the median and the mode, weights can be applied in the calculation. For instance, to mitigate manipulation of price data, one can choose to use time-weighted average price (TWAP) [102], or liquidity volume, or both [2]. Typically, the liquidity and trading volume of a market correlates with the quality of the price data. To illustrate, Uniswap V2 uses TWAP over several blocks (e.g., mean price in the last 10 blocks) to reduce the possibility of market manipulation in a single block (e.g., via flash loans [88]). In Uniswap V3, TWAP is optimized for more detailed queries including the liquidity volume and allowing users to compute the geometric mean TWAP [2].
 
 
-### Dispute
-TODO
+## Dispute
+ Dispute resolution can be 
+  - provider-oriented
+  - data-oriented
+   
+Under a provider-oriented regime, the focus is on selecting honest data providers and using disputes to remove data providers from serving as oracles in the future. In the optimistic case that providers are honest, oracle data is available immediately, however if an honest provider is corrupted, it will have a window of opportunity to provide malicious data before being excluded. 
   
-  ![](images/oracle-classification-talbe.png)
+One illustration of a provider-oriented system is operating a centralized allowlist of data providers (e.g., MakerDAO v2) where providers can be removed. Chainlink [41] strives to decentralize this functionality, where a reputation-based leaderboard replaces the allowlist.
+
+In a data-oriented regime, the focus is vetting the data itself. This can result in a slower system as oracle data is staged for a dispute period before it is finalized, however it can also correct false data (not merely remove the corrupted data feeder from future submissions).
+
+One illustration of a data-oriented system is Tellor [31, 97], where data is staged for 24 hours before finalization. If it is disputed, a period of up to 7 days is implemented to resolve the dispute. 
+
+It is also possible that a system allows the resolution itself to be further disputed with one or more additional rounds. In Augur [85] for instance, the dispute step may happen in one round (takes maximum 1 day) or may contain other rounds of disputes that can last more than 7 days.
+
+![](images/error-dispute-table.png)
+ 
+  - staking
+  - slashing
+  - voting
+  > One final truth discovery mechanism is arbitrage which is applicable in the narrow category of exchange rates between two on-chain tokens
+
+Consequences for incorrect data feeders:
+ - ban / suspension
+ - reputational loss
+ - economic loss
+ 
+ ![](images/oracle-classification-talbe.png)
+ 
+ ## Interacting with the blockchain
+ ### Off-chain Infrastructure
+ 
+ 
+ ### Blockchain Infrastructure
+ 
+ 
+ ### Smart contracts
   
   
-  ## Other linkies
+  
+  
+  # Other linkies
   
   https://oracles.club/
   
