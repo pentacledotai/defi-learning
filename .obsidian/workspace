@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "6b0aff151de1aa01",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b2ddfadbb318c74",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "oracles/oracles.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91ccf23656262d1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1728259b03a829a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "babe0a0331a78a7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "38f8cc1c4ebb3934",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b527eb8a0fa4211c",
+    "type": "split",
+    "children": [
+      {
+        "id": "66ef9458f53ef7c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b799a0b459c7587e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "oracles/oracles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9b2ddfadbb318c74",
+  "lastOpenFiles": [
+    "oracles/Untitled.md",
+    "Untitled.md",
+    "amm/provide-liquidity/provide-liquidity.md",
+    "amm/divergence-loss/divergence-loss.md"
+  ]
+}
