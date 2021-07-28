@@ -17,7 +17,7 @@ Data Sources are defined here as passive entities that store and measure the rep
  - smart contracts
  - or a combination of them
 
-  Depending on how data sources gather and retrieve the ground truth, and where a representation of that value relies upon, there can be different attack types.
+Depending on how data sources gather and retrieve the ground truth, and where a representation of that value relies upon, there can be different attack types.
   
   ...
   
@@ -108,11 +108,14 @@ Consequences for incorrect data feeders:
   For instance, Uniswap uses the last price in a block to determine the average price (TWAP), in which a miner can add new trades while reordering the past trades with the goal of manipulating the price average to profit on other applications that uses Uniswap as price oracle.
  
  #### Consensus
- The goal of the consensus algorithm used in the blockchain is to verify and append the next block of transactions to the blockchain. If the nodes do not come to agreement on a state change, a fork in the network happens with different nodes trying to finalize different forks of the blockchain. 
+ The goal of the consensus algorithm used in the blockchain is to verify and append the next block of transactions to the blockchain. 
+ If the nodes do not come to agreement on a state change, a fork in the network happens with different nodes trying to finalize different forks of the blockchain. 
  
- Given the network is decentralized, short-lived forks happens frequently in the network that generally are resolved within a few blocks. All valid transactions in the abandoned fork will eventually be mined in the main chain, likely in a new order (called *reorganization* or a *reorg*).
+ Given the network is decentralized, short-lived forks happens frequently in the network that generally are resolved within a few blocks. 
+ All valid transactions in the abandoned fork will eventually be mined in the main chain, likely in a new order (called *reorganization* or a *reorg*).
  
- A reorg opens the possibility of attacks by using known, unconfirmed, transactions from the abandoned fork. To illustrate, consider Etheroll, an on-chain gambling game where users bet by sending a number that payouts if it is smaller than a random number determined by an oracle. To prevent front-running from the mempool, the Etheroll oracle would only respond when a bet was in a block. Despite this mitigation, in April 2020, the Etheroll team detected an ongoing front-running attack on their platform. The attacker was betting rigorously and waiting for small forks— collected by Ethereum in *uncle blocks*—where the original bet and oracle’s random number response were temporarily discarded by the reorg. The attacker would place a winning bet with a high fee to front-run the original bet and eventual inclusion of the oracle’s transaction in the reorganized chain. 
+ A reorg opens the possibility of attacks by using known, unconfirmed, transactions from the abandoned fork. 
+ To illustrate, consider Etheroll, an on-chain gambling game where users bet by sending a number that payouts if it is smaller than a random number determined by an oracle. To prevent front-running from the mempool, the Etheroll oracle would only respond when a bet was in a block. Despite this mitigation, in April 2020, the Etheroll team detected an ongoing front-running attack on their platform. The attacker was betting rigorously and waiting for small forks— collected by Ethereum in *uncle blocks*—where the original bet and oracle’s random number response were temporarily discarded by the reorg. The attacker would place a winning bet with a high fee to front-run the original bet and eventual inclusion of the oracle’s transaction in the reorganized chain. 
  
  A general principle of this attack is that even if oracle data bypasses the mempool and is incorporated directly by miners, front-running through reorgs is still possible.
  
@@ -150,13 +153,17 @@ Potential attacks on the oracle's smart contract:
  - implementation flaws (e.g. manipulation of uniswap markets that are used as oracles by oracles)
  - governance
 
-#### Data Consumer Smart Contract
+#### Data Consumer Smart Contract 
 
-In the feed model, the data consumer smart contract relies on oracles to fetch the required data in order to function as intended. It is essential to use oracles with multiple data feeders and a proper aggregation methods. 
+In the feed model, the data consumer smart contract relies on oracles to fetch the required data in order to function as intended. 
+It is essential to use oracles with multiple data feeders and a proper aggregation methods. 
 
-To illustrate the importance, consider the lending service Compound which initially only used Coinbase Pro as their data feeder without any aggregation mechanisms. In November 2020, a faulty price feed on Coinbase Pro, resulted in undercollarization of Compound loans and a liquidation of $89 million dollars of the collateral. This could have been prevented by using an oracle with sufficient data feeders and a proper aggregation mechanism.
+To illustrate the importance, consider the lending service Compound which initially only used Coinbase Pro as their data feeder without any aggregation mechanisms. 
+In November 2020, a faulty price feed on Coinbase Pro, resulted in undercollarization of Compound loans and a liquidation of $89 million dollars of the collateral. 
+This could have been prevented by using an oracle with sufficient data feeders and a proper aggregation mechanism.
 
-Due to the commonality of this issue, there has been some Ethereum Improvement Proposals (EIPs) to standardize the interface of the oracles implementing a feed (e.g., EIP-2362). An interface would allow data consumer smart contracts to easily switch between feeds or use multiple oracle feeds in their logic.
+Due to the commonality of this issue, there has been some Ethereum Improvement Proposals (EIPs) to standardize the interface of the oracles implementing a feed (e.g., EIP-2362). 
+An interface would allow data consumer smart contracts to easily switch between feeds or use multiple oracle feeds in their logic.
 
 In the request-response model ... failure to verify the oracle’s response could result in malicious data injection in the data consumer smart contract.
 
@@ -169,5 +176,4 @@ To illustrate, the insurance service Nexus Mutual implemented an oracle’s resp
   https://oracles.club/
   
   [Blockchain Oracle Design Patterns](https://arxiv.org/abs/2106.09349)
-  
   
