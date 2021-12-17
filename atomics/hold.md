@@ -26,3 +26,7 @@ Goes together with the why kinda?
 ## Further / Optional detailed
 
 ..
+
+## Diagram / graphics
+
+Charts or something, TODO
