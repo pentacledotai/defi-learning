@@ -18,6 +18,8 @@ If you are like me, and don't have a background in finance or economics, [*liqui
 ![[Pasted image 20211206125332.png]]
 *Liquidity pool mechanism figure from the [official Uniswap V2 docs](https://docs.uniswap.org/protocol/V2/concepts/core-concepts/pools)*
 
-The same simplicity does not apply to digital financial markets. If you're deep enough into the crypto rabbithole to be reading this, chances are you've seen candlestick charts with flashing orderbooks on the side on some *Centralized Exchange (CEX)* that you've used. Or maybe you haven't, and just bought some tokens in your Coinbase app, which is somewhere between a true two-sided *Central Limit Order Book (CLOB)*; the mechanism that has largely dominated finance in the internet age. Let me now talk a bit about CLOBs, and why different AMMs, like Uniswap  **V2**'s are different, and why it's all a big deal, in my view. I'll eventually circle back to Impermanent Loss, but this is necessary, I promise.
+The same simplicity does not apply to digital financial markets. If you're deep enough into the crypto rabbithole to be reading this, chances are you've seen candlestick charts with flashing orderbooks on the side on some *Centralized Exchange (CEX)* that you've used. Or maybe you haven't, and just bought some tokens in your Coinbase app, which is somewhere between a true two-sided *Central Limit Order Book (CLOB)* — the mechanism that has largely dominated finance in the internet age — and the aforementioned grocery store. Let me now talk a bit about CLOBs, and why different AMMs, like Uniswap  **V2**'s are different, and why it's all a big deal, in my view. I'll eventually circle back to Impermanent Loss, but this is necessary, I promise.
+
+
 
 
