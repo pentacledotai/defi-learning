@@ -1,6 +1,6 @@
 ## What is it?
 
-Starting with Bitcoin, cryptocurrencies have introduced a truly novel form of money (and more) to the world. The thing which unites and makes this asset class special is the technology referred to as **blockchain**; a set of algorithms and rules that constitute a distributed digital network where each participant (e.g. holder of a cryptocurrency) can be sure that their balances are correct and accessible.
+Starting with Bitcoin, cryptocurrencies have introduced a truly novel form of money (and more) to the world. The thing which unites and makes this asset class special is the technology referred to as **blockchain**; a set of algorithms and rules that constitute a distributed digital network where each participant (e.g. holder of a cryptocurrency) can be sure that their balances are correct and accessible — without trusting a central intermediary, like a bank.
 
 Ethereum, the second biggest cryptocurrecy today, proved that blockchains are useful for more than just simple money transfers; it allows people to build decentralized apps, which, in less than a decade, has resulted in an explosion of Decentralized Financial (DeFi) protocols, and tokens of all kind, including NFTs.
 
