@@ -10,20 +10,19 @@ There are thousands of cryptocurrencies today with many created each day — it 
 
 Bitcoin is the first trustless internet-native currency. Since its blockchain ledger is distributed and open, anyone is free to use it, as well as able to verify that its rules are maintained and noone is spending more than they ought to be able. This is different from "regular" online money transactions, made with e.g. Visa or PayPal, where the service provider can potentially shut you out if they feel like it, or are told to by a government.
 
-BTC in particular is commonly referred to as digital gold, and many people have used it as shelter from inflation in e.g. Turkey or Venezuela. Other cryptoassets can have different use-cases; Ether, for example, is needed to access the various dApps built on the Ethereum network.
+BTC in particular is commonly referred to as digital gold, and many people have used it as shelter from inflation in e.g. Turkey or Venezuela. Other cryptoassets can have different use-cases; Ether, for example, is needed to run the various dApps built on the Ethereum network.
 
 ## Risk implications
 
-Natural volatility
-Code bugs/exploits (unintended)
-Scam coins / rugpulls
+As a nascent asset class, cryptocurrencies are infamous for their high volatility. Even though early investors in today's biggest cryptocurrencies have gained generously over time, it is easy for the faint of heart to panic sell when prices are dropping sharply; it's important to understand what we're holding in order to have conviction in times like those.
+
+As mentioned, the premise of cryptocurrencies in general is the removal of trusted intermediaries, and distributing the responsibilites which belonged to them in traditional financial systems over the whole network. This is a double edged sword, however — there is no customer support to revert your transaction if you send your coins to the wrong place.
 
 ## Rewards
 
-...
-Speculate it goes up; store of value
+Cryptocurrencies backed by blockchain technologies have various benefits over fiat money. Some people buy them as investment or saving vehicles, speculating that their value is going to increase in the future. Others may turn to them because traditional banks are unreliable or less convenient than cryptocurrencies. 
 
-Goes together with the why kinda?
+A traditional wire transfer between countries, for example, can take several days or more. Blockchain-native stablecoins allow people to do similar value transactions within a few minutes, without the added risk of price instability.
 
 ## Links
 https://www.ledger.com/academy/how-to-approach-crypto
@@ -32,5 +31,6 @@ https://www.ledger.com/academy/not-your-keys-not-your-coins-why-it-matters
 https://www.coinbase.com/learn/crypto-basics/what-is-cryptocurrency
 https://www.coinbase.com/learn/crypto-basics/what-is-a-blockchain
 https://www.coinbase.com/learn/crypto-basics/what-is-bitcoin
+https://www.coinbase.com/learn/crypto-basics/what-is-a-stablecoin
 https://nakamoto.com/what-are-the-key-properties-of-bitcoin/
 https://ethereum.org/en/what-is-ethereum/
