@@ -8,9 +8,7 @@ There are thousands of cryptocurrencies today with many created each day — it 
 
 ## Why would I?
 
-Need for transmission fees…
-Stablecoins; accessibility / convenience crossborder / better savings options
-NFTs? Nice to look at
+Bitcoin is the first trustless internet-native currency. Since its blockchain ledger is distributed and open, anyone is free to use it, as well as able to verify that its rules are maintained and noone is spending more than they ought to be able. This is different from "regular" online money transactions, made with e.g. Visa or PayPal, where the service provider can potentially shut you out if they feel like it, or are told to by a government.
 
 ## Risk implications
 
@@ -31,5 +29,6 @@ https://www.ledger.com/academy/tips-to-trust-yourself-in-becoming-your-own-bank
 https://www.ledger.com/academy/not-your-keys-not-your-coins-why-it-matters
 https://www.coinbase.com/learn/crypto-basics/what-is-cryptocurrency
 https://www.coinbase.com/learn/crypto-basics/what-is-a-blockchain
+https://www.coinbase.com/learn/crypto-basics/what-is-bitcoin
 https://nakamoto.com/what-are-the-key-properties-of-bitcoin/
 https://ethereum.org/en/what-is-ethereum/
