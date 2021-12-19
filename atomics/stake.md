@@ -1,8 +1,10 @@
 ## What is it?
 
-Basically, locking up your coins, generally in a smart contract…
+Staking crypto essentially means locking it up for future rewards — much like a savings account. The complexity of staking one's crypto, as well as the risks and rewards can vary depending on the coin and the place where it is staked.
 
-Sometimes it's locked for a period of time, sometimes you can unstake it whenever / for some fees…
+Bitcoin's blockchain relies on a consensus mechanism called Proof of Work, where the validity of the network is maintained by having people use their computers for solving math problems, roughly speaking. Proof of Stake is an alternative consensus mechanism that aims to alleviate the computational burden from a blockchain network via having people put their coins on the line instead. PoS networks include Solana, Avalanche and ETH2.0, amongst others.
+
+In DeFi applications built on top of these blockchains, staking coins has been used for incentivising people to provide liquidity or partake in governance, for example.
 
 
 ## Why would I?
@@ -21,11 +23,6 @@ Staking contract can be buggy or intentionally exploitable/drainable
 
 See why...
 
-## Further / Optional detailed
+## Links
 
-..
-
-
-## Diagram / graphics
-
-TODO think about representations…
+https://www.coinbase.com/learn/crypto-basics/what-is-staking
