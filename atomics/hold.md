@@ -10,6 +10,8 @@ There are thousands of cryptocurrencies today with many created each day — it 
 
 Bitcoin is the first trustless internet-native currency. Since its blockchain ledger is distributed and open, anyone is free to use it, as well as able to verify that its rules are maintained and noone is spending more than they ought to be able. This is different from "regular" online money transactions, made with e.g. Visa or PayPal, where the service provider can potentially shut you out if they feel like it, or are told to by a government.
 
+BTC in particular is commonly referred to as digital gold, and many people have used it as shelter from inflation in e.g. Turkey or Venezuela. Other cryptoassets can have different use-cases; Ether, for example, is needed to access the various dApps built on the Ethereum network.
+
 ## Risk implications
 
 Natural volatility
