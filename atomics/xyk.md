@@ -9,7 +9,7 @@ Divergence loss
 
 ## Rewards
 
-Simple, trustless DEX to open a market for ~~shitcoins~~ cryptocurrencies.
+Simple, permissionless DEX to open a market for ~~shitcoins~~ cryptocurrencies.
 
 ## Links
 
