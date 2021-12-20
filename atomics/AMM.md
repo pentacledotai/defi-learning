@@ -7,7 +7,7 @@ This may sound simple in principle, but these orderbooks are a very competitive 
 
 ## Why would I?
 
-Automated Market Makers (AMMs) are mathetmatical functions that make it possible for people to trade their coins on Decentralized Exchanges (DEX) in a transparent way on the blockchain, without trusted intermediaries. Continuing with the comparison, they are a replacement for the matching engine used on traditional marketplaces, while the order books are replaced with so-called Liquidity Pools — kept in balance by the aforementioned AMM.
+Automated Market Makers (AMMs) are mathematical functions that make it possible for people to trade their coins on Decentralized Exchanges (DEX) in a transparent way on the blockchain, without trusted intermediaries. Continuing with the comparison, they are a replacement for the matching engine used on traditional marketplaces, while the order books are replaced with so-called Liquidity Pools — kept in balance by the aforementioned AMM.
 
 ## Risk implications
 

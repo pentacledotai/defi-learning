@@ -2,7 +2,7 @@
 
 Starting with Bitcoin, cryptocurrencies have introduced a truly novel form of money (and more) to the world. The thing which unites and makes this asset class special is the technology referred to as **blockchain**; a set of algorithms and rules that constitute a distributed digital network where each participant (e.g. holder of a cryptocurrency) can be sure that their balances are correct and accessible — without trusting a central intermediary, like a bank.
 
-Ethereum, the second biggest cryptocurrecy today, proved that blockchains are useful for more than just simple money transfers; it allows people to build decentralized apps, which, in less than a decade, has resulted in an explosion of Decentralized Financial (DeFi) protocols, and tokens of all kind, including NFTs.
+Ethereum, the second biggest cryptocurrency today, proved that blockchains are useful for more than just simple money transfers; it allows people to build decentralized apps, which, in less than a decade, has resulted in an explosion of Decentralized Financial (DeFi) protocols, and tokens of all kind, including NFTs.
 
 There are thousands of cryptocurrencies today with many created each day — it is important to understand the purpose and background of a token before buying it.
 
@@ -16,7 +16,7 @@ BTC in particular is commonly referred to as digital gold, and many people have 
 
 As a nascent asset class, cryptocurrencies are infamous for their high volatility. Even though early investors in today's biggest cryptocurrencies have gained generously over time, it is easy for the faint of heart to panic sell when prices are dropping sharply; it's important to understand what we're holding in order to have conviction in times like those.
 
-As mentioned, the premise of cryptocurrencies in general is the removal of trusted intermediaries, and distributing the responsibilites which belonged to them in traditional financial systems over the whole network. This is a double edged sword, however — there is no customer support to revert your transaction if you send your coins to the wrong place.
+As mentioned, the premise of cryptocurrencies in general is the removal of trusted intermediaries, and distributing the responsibilites which belonged to them in traditional financial systems over the whole network. This is a double-edged sword, however — there is no customer support to revert your transaction if you send your coins to the wrong place.
 
 ## Rewards
 
