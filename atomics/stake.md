@@ -4,24 +4,20 @@ Staking crypto essentially means locking it up for future rewards — much like 
 
 Bitcoin's blockchain relies on a consensus mechanism called Proof of Work, where the validity of the network is maintained by having people use their computers for solving math problems, roughly speaking. Proof of Stake is an alternative consensus mechanism that aims to alleviate the computational burden from a blockchain network via having people put their coins on the line instead. PoS networks include Solana, Avalanche and ETH2.0, amongst others.
 
-In DeFi applications built on top of these blockchains, staking coins has been used for incentivising people to provide liquidity or partake in governance, for example.
+Setting up a PoS client can be quite technical and does not fit in the scope of this explainer. However, staking in the broader sense has been widely utilized by DeFi apps for various purposes, in which case it is as easy as clicking a button and paying some fees; like a savings account in the bank, but more transparent!
 
 
-## Why would I?
+## Why?
 
-Depends on the protocol; most often you stake your LP tokens to "prove" that you are committed to providing liquidity, in exchange for yield rewards.
+Concentrating on the DeFi context, staking is a way for people to "signal their trust/allegiance" to a protocol. Some apps require people to lock up their tokens to partake in governance about future changes to the protocol. DEXes often give their users extra rewards for locking up their LP tokens, in order to incentivise people to provide liquidity on their platform — like different banks competing for people to use their services, but more transparent!
 
-Proof of Stake L1s need it for network security...
+## Risks
 
-Governance
-
-## Risk implications
-
-Staking contract can be buggy or intentionally exploitable/drainable
+When you stake your coins, you generally lock them in a smart contract, or maybe in a staking pool service offered by some Centralized Exchanges. In either case, you temporarily give up custody of your coins; even if you can withdraw with the click of a button (and paying some fees), your staked funds could get drained if the application is new and untested.
 
 ## Rewards
 
-See why...
+Yield farming / Liquidity mining...
 
 ## Links
 
