@@ -3,16 +3,13 @@
 Most prominent AMM formula, popularized by Uniswap.
 
 
-
 ## Risk implications
 
-..
-..
+Divergence loss
 
 ## Rewards
 
-...
-...
+Simple, trustless DEX to open a market for ~~shitcoins~~ cryptocurrencies.
 
 ## Links
 
