@@ -14,9 +14,10 @@ Most prominent AMM formula, popularized by Uniswap.
 ...
 ...
 
-## Further / Optional detailed
+## Links
 
-..
+https://www.desmos.com/calculator/nw4zrqrftx
+https://twitter.com/danrobinson/status/1429972775511408651
 
 
 ## Diagram / graphics
