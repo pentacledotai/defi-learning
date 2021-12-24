@@ -11,13 +11,15 @@ Automated Market Makers (AMMs) are mathematical functions that make it possible 
 
 ## Risk implications
 
-Code bugs/exploits (unintended, many new and untested AMM algorithms)
-Scam coins / rugpulls — the market owner on e.g. coinbase makes sure only "legit" coins are available on their platform; not the case on permissionless DEXes...
+As with any software, new and untested AMMs can have unintended bugs that may make them vulnerable to exploits. Fortunately, the biggest and most popular DeFi markets are typically the ones that have stood the test of time and their open-source code has been well scrutinised.
+
+The permissionless nature of Decentralised Exchanges also means that people may open markets for malicious scam coins; even if the AMM algorithm is safe, one must be careful when shopping for coins on a DEX.
 
 ## Rewards
 
 Exchange without trusted intermediaries
-Sometimes the DEX protocols have their own coin which they give out as a reward to their users (as an airdrop or in form of yield for LPing, for example)
+
+Sometimes the DEX protocols have their own coin which they give out as a reward to their users (as an airdrop or in form of yield for providing liquidity, for example). These coins get their value from governing future changes to the protocol they are connected to, typically.
 
 ## Links
 https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers
