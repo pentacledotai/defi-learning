@@ -20,13 +20,14 @@ $x = \sqrt{K \times P}$ $y = \sqrt{\frac{K}{P}}$
 
 $DL = \sqrt{R} - \frac{R+1}{2}$ where $R$ is the ratio of the initial (at deposit) and new price $R = \frac{P_1}{P_0}$
 
+## Rewards
+
+Simple, permissionless DEX to open a market for trading and Providing Liquidity [link to LP] ~~shitcoins~~ cryptocurrencies.
+
 ## Risk implications
 
 Divergence loss [link to DL]
 
-## Rewards
-
-Simple, permissionless DEX to open a market for trading and Providing Liquidity [link to LP] ~~shitcoins~~ cryptocurrencies.
 
 ## Links
 

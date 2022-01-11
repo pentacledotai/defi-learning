@@ -4,7 +4,6 @@ Traditional digital markets, like the NASDAQ stock exchange (as well as centrali
 
 This may sound simple in principle, but these orderbooks are a very competitive landscape where professional market makers compete with each other at split second speeds — it has been practically impossible to replicate this model on today's decentralized blockchains such as Ethereum.
 
-
 ## Why would I?
 
 Automated Market Makers (AMMs) are mathematical functions that make it possible for people to trade their coins on Decentralized Exchanges (DEX) in a transparent way on the blockchain, without trusted intermediaries. Continuing with the comparison, they are a replacement for the matching engine used on traditional marketplaces, while the order books are replaced with so-called Liquidity Pools — kept in balance by the aforementioned AMM.
