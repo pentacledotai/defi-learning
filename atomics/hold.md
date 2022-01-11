@@ -23,6 +23,15 @@ BTC in particular is commonly referred to as digital gold, and many people have 
 e.g. Turkey or Venezuela. Other cryptoassets can have different use-cases; Ether, for example, is needed to run the
 various dApps built on the Ethereum network.
 
+## Rewards
+
+Cryptocurrencies backed by blockchain technologies have various benefits over fiat money. Some people buy them as
+investment or saving vehicles, speculating that their value is going to increase in the future. Others may turn to them
+because traditional banks are unreliable or less convenient than cryptocurrencies.
+
+A traditional wire transfer between countries, for example, can take several days or more. Blockchain-native stablecoins
+allow people to do similar value transactions within a few minutes, without the added risk of price instability.
+
 ## Risk implications
 
 As a nascent asset class, cryptocurrencies are infamous for their high volatility. Even though early investors in
@@ -33,12 +42,3 @@ those.
 As mentioned, the premise of cryptocurrencies in general is the removal of trusted intermediaries, and distributing the
 responsibilities which belonged to them in traditional financial systems over the whole network. This is a double-edged
 sword, however — there is no customer support to revert your transaction if you send your coins to the wrong place.
-
-## Rewards
-
-Cryptocurrencies backed by blockchain technologies have various benefits over fiat money. Some people buy them as
-investment or saving vehicles, speculating that their value is going to increase in the future. Others may turn to them
-because traditional banks are unreliable or less convenient than cryptocurrencies.
-
-A traditional wire transfer between countries, for example, can take several days or more. Blockchain-native stablecoins
-allow people to do similar value transactions within a few minutes, without the added risk of price instability.
