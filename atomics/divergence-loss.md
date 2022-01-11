@@ -1,9 +1,10 @@
 ## What is it?
 
-The loss produced by providing tokens as liquidity to an AMM instead of just holding them, if the tokens diverge in price.
+The loss produced by providing tokens as liquidity to an AMM instead of just holding them, if the tokens diverge in
+price.
 
-Divergence loss is the difference between the value of an LP position vs the same account holding fixed
-amounts of those same tokens.
+Divergence loss is the difference between the value of an LP position vs the same account holding fixed amounts of those
+same tokens.
 
 ## Risk implications
 
@@ -11,7 +12,8 @@ Divergence loss is a risk that one is exposed to when providing liquidity on an 
 
 ## Rewards
 
-Protocols typically give out rewards/yield to counterbalance the risk, which often, but not always makes up for the divergence loss suffered.
+Protocols typically give out rewards/yield to counterbalance the risk, which often, but not always makes up for the
+divergence loss suffered.
 
 ## Further / Optional detailed
 
@@ -31,5 +33,4 @@ $x = \sqrt{K \times P}$ $y = \sqrt{\frac{K}{P}}$
 
 ![definition-and-refs-from-paper](images/definition-and-refs-from-paper.png)
 
-$DL = \sqrt{R} - \frac{R+1}{2}$ where $R$ is the ratio of the initial (at deposit) and new
-price $R = \frac{P_1}{P_0}$
+$DL = \sqrt{R} - \frac{R+1}{2}$ where $R$ is the ratio of the initial (at deposit) and new price $R = \frac{P_1}{P_0}$
