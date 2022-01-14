@@ -22,4 +22,9 @@ may have low volume / liquidity (this could work out well)
 ## Links
 
 https://help.aurora.dev/article/53-is-aurora-l1-or-l2
+
 https://academy.binance.com/en/glossary/layer-2
+
+https://twitter.com/DeFi_LATAM/status/1482011704661889024
+
+![img.png](img.png)
