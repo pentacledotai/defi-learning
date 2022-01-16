@@ -25,6 +25,8 @@ https://help.aurora.dev/article/53-is-aurora-l1-or-l2
 
 https://academy.binance.com/en/glossary/layer-2
 
+https://docs.google.com/spreadsheets/d/1jYZOfU2R3PdzRmnY9Nfc4pzerX_YSInNdyhtSj_3oWY/htmlview
+
 https://twitter.com/DeFi_LATAM/status/1482011704661889024
 
 ![img.png](img.png)
