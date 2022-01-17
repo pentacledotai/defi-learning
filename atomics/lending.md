@@ -1,7 +1,12 @@
 ## What is it?
 
 
+
+
+
 ## Why?
+
+
 
 
 
@@ -9,11 +14,18 @@
 
 
 
+
+
 ## Risk implications
+
+Loss of liquidity
+
 
 
 
 
 ## Links
+
+https://defillama.com/protocols/lending
 
 https://app.sushi.com/lend
