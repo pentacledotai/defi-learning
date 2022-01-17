@@ -1,43 +1,44 @@
 ## What is it? / Why
 
-Blockchain systems offer great technological benefits for money transfers and record-keeping in general;
-the main properties most often considered are decentralisation, trust- and permissionlessness, censorship resistance and immutability.
+Layer 2s can make blockchain networks cheaper, faster, and therefore more useful for more people.
 
-These desired properties of decentralised networks come at the cost of limited throughput, however. Even the most prominent networks of today,
-Bitcoin and Ethereum are only able to handle a fairly limited amount of transactions in a given time period; an average BTC transfer takes about 10 minutes,
-and some interactions with Ethereum dApps can cost hundreds of dollars during congested times. 
+Blockchain systems offer great technological benefits for money transfers and record-keeping in general; the main
+properties most often considered are decentralisation, trust– and permissionlessness, censorship resistance and
+immutability.
 
-Newer blockchain networks may have somewhat better performance in some aspects, but ultimately all of them suffer from the above tradeoff between speed/accessability and security. Layer 2 refers to solutions to this problem that scale up networks by building a secondary protocol that inherits the security guarantees of the base layer.
+These desired properties of decentralised networks come at the cost of limited throughput, however. Even the most
+prominent networks of today, Bitcoin and Ethereum are only able to handle a fairly limited amount of transactions in a
+given time period; an average BTC transfer takes about 10 minutes, and some interactions with Ethereum dApps can cost
+hundreds of dollars in gas fees during congested times.
 
----
-
-secondary protocol on top of a layer one blockchain (eg ethereum)
-optimistic rollups, zk rollups () - there are different implementations
-processes transactions off of mainnet (as mainnet is slow and expensive)
-it's faster (apart from bridging, sometimes) and cheaper
+Newer blockchain networks may have somewhat better performance in some aspects, but ultimately all of them suffer from
+the above tradeoff between speed/accessibility and security. Layer 2 refers to solutions to this problem that scale up
+networks by building a secondary protocol that inherits the security guarantees of the base layer.
 
 ## Types
 
-Scaling solutions to blockchains are an advanced topic with much ongoing research and development. The technical descriptions and differences between each is beyond the scope of this explainer, but they are well worth researching for the curious.
+Scaling solutions to blockchains are an advanced topic with much ongoing research and development. The technical
+descriptions and differences between each is beyond the scope of this explainer, but they are well worth researching for
+the curious.
 
-For Bitcoin, the most notable L2 solution is Lightning Network. 
+For Bitcoin, the most notable L2 solution is Lightning Network.
 
-Ethereum has numerous Layer 2 implementations, with the two main approaches being Optimistic Rollups and Zero-Knowledge Rollups.
+Ethereum has numerous Layer 2 implementations, with the two main approaches being Optimistic Rollups and Zero-Knowledge
+Rollups.
 
 ## Rewards
 
-The main benefit of using Layer 2's is reduced fees and/or improved speed. On top of this, early adapters of new scaling networks can be rewarded by receiving tokens for their bravery from network and app developers, as a bonus.
+The main benefit of using Layer 2s is lower fees and/or improved speed. On top of this, early adapters of new scaling
+networks can be rewarded by receiving tokens for their bravery from network and app developers, as a bonus.
 
 ## Risk implications
 
-Layer 2's can make blockchain networks cheaper, faster, and therefore more useful for more people. As with any novel software or technology, it is not without its dangers. Getting funds from the base layer to an L2 typically involves some so called bridging process; this transaction can be costly and take some time, depending on the particular implementation — still, it is advisable to test with a small transaction first, just make sure the software works and to familiarise ourselves with the process, as it can be somewhat confusing.
+As with any novel software or technology, it is not without its dangers. Getting funds from an L1 base layer to an L2 typically involves
+a so-called bridging process; this transaction can be costly and take some time, depending on the particular
+implementation. 
 
----
-
-getting stuck in a bridge with no escape
-new technology may be not so robustly tested
-ux could be poor and your tokens vanish into a wormhole, with no chance of retrieval (yet) - always do a small test first
-may have low volume / liquidity (this could work out well)
+It is advisable to test with a small transaction first, to make sure the software works in the expected way, and to
+familiarise ourselves with the process, as it can sometimes be unclear.
 
 ## Links
 
