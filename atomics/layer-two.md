@@ -30,6 +30,8 @@ The main benefit of using Layer 2's is reduced fees and/or improved speed. On to
 
 ## Risk implications
 
+Layer 2's can make blockchain networks cheaper, faster, and therefore more useful for more people. As with any novel software or technology, it is not without its dangers. Getting funds from the base layer to an L2 typically involves some so called bridging process; this transaction can be costly and take some time, depending on the particular implementation — still, it is advisable to test with a small transaction first, just make sure the software works and to familiarise ourselves with the process, as it can be somewhat confusing.
+
 ---
 
 getting stuck in a bridge with no escape
