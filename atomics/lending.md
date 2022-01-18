@@ -33,8 +33,8 @@ liquidate our funds lest we deposit more or pay back what we have borrowed.
 While the interest rates on deposits and borrows are decided algorithmically in a transparent manner,
 they typically are not stable but rather fluctuate depending on supply and demand.
 
-In some cases, you may not be able to retreive your deposit in full — if a coin is overborrowed relative
-the liquidity depoposited on the platform, for example.
+In some cases, you may not be able to retreive your deposit in full — if a coin is over-borrowed relative
+the liquidity deposited on the platform, for example.
 
 It is important to read the documentation of the platform we intend to use, as the risks involved can
 vary greatly depending on the exact implementation.
