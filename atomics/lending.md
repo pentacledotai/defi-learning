@@ -4,12 +4,7 @@ The simple acts of Lending and Borrowing are prominent financial primitives that
 many more complex financial products.
 
 Just as there are DEXes operated by Automated Market Makers that allow people to swap their coins
-seamlessly with each other, there are numerous lending applications in DeFi.
-
----
-
-lending and borrowing is a financial primitive
-as there are Dexes, there are lending platforms in defi, 
+seamlessly with each other, there are numerous lending platforms in DeFi.
 
 
 ## Why?
@@ -17,14 +12,6 @@ as there are Dexes, there are lending platforms in defi,
 As a lender, you can provide liquidity (deposit coins to borrow) to the protocol in order to
  - earn interest on your deposits from borrowers
  - take out a loan in the form of some other coin using your deposits as collateral
-
----
-
-lend tokens to earn interest on the tokens you deposit, sometimes with the added bonus of ponzi tokens
-
-you can take a loan out against your deposit
-
-eg Maker allows ppl to deposit, and then mint dai
 
 
 ## Rewards
@@ -46,17 +33,11 @@ liquidate our funds lest we deposit more or pay back what we have borrowed.
 While the interest rates on deposits and borrows are decided algorithmically in a transparent manner,
 they typically are not stable but rather fluctuate depending on supply and demand.
 
+In some cases, you may not be able to retreive your deposit in full — if a coin is overborrowed relative
+the liquidity depoposited on the platform, for example.
 
----
-Loss of liquidity
-Unpredictable returns as APY is not always fixed
-If your collateral drops in value you can get liquidated
-Have to keep health-ratio in check and repay your loan or deposit a healthy amount to ensure correct ratios
-if there is too little liquidity amongst borrowers of the token you have lent, you may not be able to withdraw your deposit
-Depositing with larger protocols is generally less risky
-impermanent loss can be a danger in providing liquidity to Dexes if you are
-
-
+It is important to read the documentation of the platform we intend to use, as the risks involved can
+vary greatly depending on the exact implementation.
 
 
 ## Links
