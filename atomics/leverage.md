@@ -3,7 +3,7 @@
 Broadly speaking, leverage in finance refers to using borrowed funds to purchase something, with the expectation
 that the profits on the purchase exceed the borrowing costs. Leverage can come in various forms:
  - financial derivatives like futures and options
- - mortgages for privatepersons
+ - mortgages for private persons
  - et cetera
 
 There are numerous platforms that give people access to leverage, both centralised and decentralised.
@@ -32,7 +32,7 @@ See why.
 
 Cryptocurrencies are notorius for their volatility as they are.
 This is partially because of the prevalence of leverage in crypto markets;
-levered speculators often end up forcibly liquidating thie positions on
+levered speculators often end up forcibly liquidating their positions on
 relatively small price moves, further adding to the momentum.
 
 
