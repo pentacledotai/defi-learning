@@ -1,30 +1,29 @@
 ## What is it?
 
-Perpetual futures, also known as perpetual swaps or just perps for short, are a financial derivative. First popularised
-by BitMex, they are a staple of crypto markets today and available in some form on various Centralised and Decentralised
-exchanges for hundreds of cryptocurrencies.
+Perpetual futures, also known as perpetual swaps or just perps for short, are a financial derivative.
 
 A futures contract is an agreement to buy or sell a cryptocurrency at some time in the future. Traditional futures have
 a set expiry date — perpetual futures, on the other hand, have funding payments paid out in regular intervals to holders
 of the contracts, keeping their price bound to the underlying coin(s).
 
+First popularised by BitMex, they are a staple of crypto markets today and available in some form on various Centralised
+and Decentralised exchanges for hundreds of cryptocurrencies.
+
 ## Why?
 
-Perpetual futures allow people to speculate on the price of a cryptocurrencies without the technical burdens and risks
-that come with purchasing the actual coin.
-
-Perpetual futures products in crypto notoriously allow people high amounts of leverage.
+Perps notoriously offer people high amounts of leverage – allowing them to speculate on the price of a cryptocurrency
+without the technical burdens and risks that come with purchasing the actual coin.
 
 Shorting allows speculators to bet that a coin will decrease in value, while longing allows people to bet a coin will
-increase in value.
+increase in value over time.
 
 ## Rewards
 
-Leverage trading offers people the chance to make higher gains than if they were holding a spot position.
+Leverage trading offers people the chance to make significant gains.
 
 ## Risk implications
 
-Typical risks associated with leverage: magnified losses, potential liquidation.
+Typical risks associated with leverage include magnified losses and potential liquidation.
 
 ## Links
 
