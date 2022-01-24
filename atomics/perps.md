@@ -43,3 +43,5 @@ https://www.bitmex.com/app/perpetualContractsGuide
 https://www.coindesk.com/learn/what-is-a-perpetual-swap-contract/
 
 https://bitcoinfuturesinfo.com/articles/the-universe-of-crypto-futures-products
+
+https://research.paradigm.xyz/cartoon-guide-to-perps
