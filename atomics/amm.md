@@ -2,11 +2,10 @@
 
 Traditional digital markets, like the NASDAQ stock exchange (as well as centralized crypto exchanges) work with matching
 engines built for so-called Limit Order Books: buyers and sellers have to offer up their goods at a certain price in a
-certain quantity, and wait to be matched with someone else to conduct a trade.
-
-This may sound simple in principle, but these orderbooks are a very competitive landscape where professional market
-makers compete with each other at split second speeds — it has been practically impossible to replicate this model on
-today's decentralized blockchains such as Ethereum.
+certain quantity, and wait to be matched with someone else to conduct a trade. This may sound simple in principle, but
+these orderbooks are a very competitive landscape where professional market makers compete with each other at split
+second speeds — it has been practically impossible to replicate this model on today's decentralized blockchains such as
+Ethereum.
 
 ## Why would I?
 
