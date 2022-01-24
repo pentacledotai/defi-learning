@@ -11,8 +11,8 @@ and Decentralised exchanges for hundreds of cryptocurrencies.
 
 ## Why?
 
-Perps notoriously offer people high amounts of leverage – allowing them to speculate on the price of a cryptocurrency
-without the technical burdens and risks that come with purchasing the actual coin.
+Perps allow traders to speculate on the price of a cryptocurrency without the technical burdens and risks that come with
+purchasing the actual coin, and notoriously offer high amounts of leverage.
 
 Shorting allows speculators to bet that a coin will decrease in value, while longing allows people to bet a coin will
 increase in value over time.
