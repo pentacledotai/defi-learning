@@ -6,7 +6,7 @@ company for some fee, and if an accident occurs, the
 company compensates you.
 
 Insurance companies are essentially a way for people to
-socialise their risks by pooling their money together.
+socialise their risks (e.g. illness,  by pooling their money together.
 
 In DeFi, just as there are decentralised protocols built
 for people to lend out and/or exchange their tokens, there
@@ -17,17 +17,26 @@ rewards.
 
 ## Why?
 
+Insurance is still a nascent and fairly niche sector in
+crypto. DeFi insurance products typically give cover for
+smart contract failures (exploited bugs). While this is
+certainly a considerable risk when using DeFi in general,
+the cost of buying a DeFi insurance on top of (for example)
+a DeFi loan is simply not worth the extra work for many people.
 
+As the industry evolves, we may see a broader use of insurance
+contracts issued on blockchains.
 
 
 ## Rewards
 
-
+Insurance, but on the blockchain.
 
 
 ## Risk implications
 
-
+Ironically, decentralised insurance applications may be
+exploitable themselves.
 
 
 
