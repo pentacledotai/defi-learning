@@ -1,3 +1,5 @@
+# holding crypto
+
 ## What is it?
 
 Starting with Bitcoin, cryptocurrencies have introduced a truly novel form of money (and more) to the world. The thing
@@ -12,11 +14,11 @@ many created each day — it is important to understand the purpose and backgrou
 ## Why would I?
 
 Bitcoin is the first trustless internet-native currency. Since its blockchain ledger is distributed and open, anyone is
-free to use it, as well as able to verify that its rules are maintained and noone is spending more than they ought to be
-able. This is different from "regular" online money transactions, made with e.g. Visa or PayPal, where the service
+free to use it, as well as being able to verify that its rules are maintained and no-one is spending more than they
+ought to. This is different from "regular" online money transactions, made with e.g. Visa or PayPal, where the service
 provider can potentially shut you out if they feel like it, or are told to by a government. BTC in particular is
 commonly referred to as digital gold, and many people have used it as shelter from inflation in e.g. Turkey or
-Venezuela. Other crypto assets can have different use-cases; Ether, for example, is needed to run the various dApps
+Venezuela. Other crypto-assets can have different use-cases; Ether, for example, is needed to run the various dApps
 built on the Ethereum network.
 
 ## Rewards

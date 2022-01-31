@@ -1,44 +1,30 @@
 ## What is it?
 
-Insurance is a way for people to protect themselves from
-potential risks. You buy an insurance from an insurance
-company for some fee, and if an accident occurs, the
-company compensates you.
+Insurance is a way for people to protect themselves from potential risks. You buy insurance from an insurance company
+for some fee, and if an accident occurs, the company compensates you.
 
-Insurance companies are essentially a way for people to
-socialise their risks (e.g. illness,  by pooling their money together.
+Insurance companies are essentially a way for people to socialise their risks (e.g. illness, by pooling their money
+together.
 
-In DeFi, just as there are decentralised protocols built
-for people to lend out and/or exchange their tokens, there
-are insurance protocols where one can buy insurance against
-accidents on the blockchain — or put their funds in the
-insurance pools to cover others from losses in exchange for
-rewards.
+In DeFi, just as there are decentralised protocols built for people to lend out and/or exchange their tokens, there are
+insurance protocols where one can buy insurance against accidents on the blockchain — or put their funds in the
+insurance pools to cover others from losses in exchange for rewards.
 
 ## Why?
 
-Insurance is still a nascent and fairly niche sector in
-crypto. DeFi insurance products typically give cover for
-smart contract failures (exploited bugs). While this is
-certainly a considerable risk when using DeFi in general,
-the cost of buying a DeFi insurance on top of (for example)
-a DeFi loan is simply not worth the extra work for many people.
+Insurance is still a nascent and fairly niche sector in crypto. DeFi insurance products typically give cover for smart
+contract failures (exploited bugs). While this is certainly a considerable risk when using DeFi in general, the cost of
+buying DeFi insurance on top of (for example) a DeFi loan is simply not worth the extra work for many people.
 
-As the industry evolves, we may see a broader use of insurance
-contracts issued on blockchains.
-
+As the industry evolves, we may see a broader use of insurance contracts issued on blockchains.
 
 ## Rewards
 
 Insurance, but on the blockchain.
 
-
 ## Risk implications
 
-Ironically, decentralised insurance applications may be
-exploitable themselves.
-
-
+Ironically, decentralised insurance applications may be exploitable themselves.
 
 ## Links
 
