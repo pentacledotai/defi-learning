@@ -33,3 +33,4 @@ Divergence loss [link to DL]
 
 https://www.desmos.com/calculator/nw4zrqrftx
 https://twitter.com/danrobinson/status/1429972775511408651
+https://github.com/SL33303/cheatsheets

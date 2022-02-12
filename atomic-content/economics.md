@@ -1,3 +1,5 @@
+need to add credit to this
+
 Essentially we used to trade with various things to represent value. Gold being one of them. However, gold was not very
 DIVISIBLE, easy to STORE, hard to TRANSPORT. However, it was widely ACCEPTED AND RECOGNIZED VALUE (except it could have
 been mixed with another metal, which is hard and expensive to determine) and it was hard to obtain, rare and required a
